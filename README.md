@@ -1,5 +1,4 @@
 <div align="center" >
-<table width="200%">
   
 ### dne
 ### lua developer
